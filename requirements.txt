@@ -1,0 +1,7 @@
+numpy
+Pillow
+opencv-python
+ultralytics
+pyrealsense2
+breezyslam
+RPi.GPIO

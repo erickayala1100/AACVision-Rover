@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.venv/
+venv/
+
+# Models and generated output
+*.pt
+*.onnx
+*.engine
+*.bag
+*.log
+
+# Rover output
+acvision_maps/
+aacvision_maps/
+aacvision_basketball_images/
+aacvision_logs/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Build/archive artifacts
+*.zip
+*.tar.gz
